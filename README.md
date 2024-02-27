@@ -1,5 +1,5 @@
 # helloworld
-My first hello world repo
+My first hello world bob
 
 Hello this GitHub is really great!
 
