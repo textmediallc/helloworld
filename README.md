@@ -1,16 +1,16 @@
 # helloworld
-My first hello world repo
+My first hello world bob
 
 Hello this GitHub is really great!
 
-Another from Wesley!!!
+This is a conflict. 
 
 Wow it is really easy to make changes!
 This is Lala, adding a line 
 Update from Boby
 
-Cool..!! I can access it (<Manoj>).
+Where is the conflict....
 
 One additional edit here
 
-More edits
+!!!!Conflicts!!!
